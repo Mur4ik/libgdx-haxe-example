@@ -1,0 +1,9 @@
+-java out
+-main Main
+-java-lib gdx.jar
+-java-lib gdx-natives.jar
+-java-lib gdx-backend-lwjgl.jar
+-java-lib gdx-backend-lwjgl-natives.jar
+
+--next
+-cmd java -jar out/Main.jar
